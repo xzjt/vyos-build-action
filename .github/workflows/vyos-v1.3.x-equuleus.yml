@@ -1,7 +1,7 @@
 name: VyOS v1.3.x LTS Release
 
 on:
-  commit_comment:
+  push:
     tags:
       - 'v1.3.*'
 
