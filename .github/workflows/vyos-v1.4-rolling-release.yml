@@ -8,7 +8,7 @@ env:
   GIT_CLONE_URL: https://github.com/vyos/vyos-build
   BRANCH: current
   ARCHITECTURE: amd64
-  BUILD_BY: vyos-build-action@github.com
+  BUILD_BY: admin@ovirt.club
   BUILD_TYPE: release
   VERSION: 1.4-rolling
   DEBIAN_MIRROR: http://ftp.us.debian.org/debian/
